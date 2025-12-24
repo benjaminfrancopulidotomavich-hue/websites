@@ -1,3 +1,5 @@
+![Screenshot_2025-12-22-21-42-13-475](https://github.com/user-attachments/assets/c867b097-36ca-4013-b5d3-1f7a623549ef)
+![Screenshot_2025-12-22-21-42-13-475](https://github.com/user-attachments/assets/ce7fdba4-5881-41b6-b2cb-4102e469e2e0)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
@@ -42,4 +44,4 @@ The Shizuku app will direct the user to run a process (Shizuku service process) 
 The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
-2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code
